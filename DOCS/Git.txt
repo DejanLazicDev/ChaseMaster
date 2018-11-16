@@ -1,3 +1,8 @@
+DejanLazicDev
+<STANDARD>1=!
+
 https://github.com/DejanLazicDev/ChaseMaster.git
 
 git clone http://github.com/DejanLazicDev/ChaseMaster.git
+git checkout -b develop
+git push origin develop
