@@ -1,0 +1,3 @@
+https://github.com/DejanLazicDev/ChaseMaster.git
+
+git clone http://github.com/DejanLazicDev/ChaseMaster.git
