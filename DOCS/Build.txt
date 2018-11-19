@@ -1,0 +1,8 @@
+Run:
+
+mvn spring-boot:run
+
+or
+
+mvn package
+java -jar target/chasemaster-registration-0.0.1-SNAPSHOT.jar
